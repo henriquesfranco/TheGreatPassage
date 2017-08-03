@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E786380C-EF32-D778-4618-78AD3EC8F735}") = "The Great Passage", "Assembly-CSharp.csproj", "{FA78C025-8E1B-3662-2FB5-6A09AE051E79}"
+EndProject
+Project("{E786380C-EF32-D778-4618-78AD3EC8F735}") = "The Great Passage", "Assembly-CSharp-Editor.csproj", "{9A4AA241-D1E6-B149-A8F0-D0C3F88494C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA78C025-8E1B-3662-2FB5-6A09AE051E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA78C025-8E1B-3662-2FB5-6A09AE051E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA78C025-8E1B-3662-2FB5-6A09AE051E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA78C025-8E1B-3662-2FB5-6A09AE051E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4AA241-D1E6-B149-A8F0-D0C3F88494C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4AA241-D1E6-B149-A8F0-D0C3F88494C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4AA241-D1E6-B149-A8F0-D0C3F88494C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4AA241-D1E6-B149-A8F0-D0C3F88494C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

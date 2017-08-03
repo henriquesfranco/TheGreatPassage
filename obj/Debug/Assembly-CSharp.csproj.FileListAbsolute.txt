@@ -1,0 +1,90 @@
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Google.ProtocolBuffers.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEditor.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Mono.Cecil.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Unity.DataContract.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.xml
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEditor.xml
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Documentos\Unity\Projects\The Great Passage\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Documentos\Unity\Projects\The Great Passage\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Documentos\Unity\Projects\The Great Passage\obj\Debug\Assembly-CSharp.dll
+D:\Documentos\Unity\Projects\The Great Passage\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\obj\Debug\Assembly-CSharp.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage v1\The Great Passage\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\obj\Debug\Assembly-CSharp.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Henrique Franco\Desktop\The Great Passage_V8\obj\Debug\Assembly-CSharp.pdb

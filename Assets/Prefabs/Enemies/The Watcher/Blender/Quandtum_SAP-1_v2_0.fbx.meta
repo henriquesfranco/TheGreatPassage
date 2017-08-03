@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: deb4ad2d1743e484ebfa4d2ffedc15c4
+timeCreated: 1491272593
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base
+    100002: Head
+    100004: IK_Switch
+    100006: Leg_FK_Front_L
+    100008: Leg_FK_Front_R
+    100010: Leg_FK_Rear_L
+    100012: Leg_FK_Rear_R
+    100014: Leg_IK_Front_L
+    100016: Leg_IK_Front_R
+    100018: Leg_IK_Front_Target_L
+    100020: Leg_IK_Front_Target_R
+    100022: Leg_IK_Knee_Target_Front_L
+    100024: Leg_IK_Knee_Target_Front_R
+    100026: Leg_IK_Knee_Target_Rear_L
+    100028: Leg_IK_Knee_Target_Rear_R
+    100030: Leg_IK_Rear_L
+    100032: Leg_IK_Rear_R
+    100034: Leg_IK_Rear_Target_L
+    100036: Leg_IK_Rear_Target_R
+    100038: Position_Lock
+    100040: //RootNode
+    100042: Robot
+    100044: Robot_Armature
+    100046: Root
+    400000: Base
+    400002: Head
+    400004: IK_Switch
+    400006: Leg_FK_Front_L
+    400008: Leg_FK_Front_R
+    400010: Leg_FK_Rear_L
+    400012: Leg_FK_Rear_R
+    400014: Leg_IK_Front_L
+    400016: Leg_IK_Front_R
+    400018: Leg_IK_Front_Target_L
+    400020: Leg_IK_Front_Target_R
+    400022: Leg_IK_Knee_Target_Front_L
+    400024: Leg_IK_Knee_Target_Front_R
+    400026: Leg_IK_Knee_Target_Rear_L
+    400028: Leg_IK_Knee_Target_Rear_R
+    400030: Leg_IK_Rear_L
+    400032: Leg_IK_Rear_R
+    400034: Leg_IK_Rear_Target_L
+    400036: Leg_IK_Rear_Target_R
+    400038: Position_Lock
+    400040: //RootNode
+    400042: Robot
+    400044: Robot_Armature
+    400046: Root
+    4300000: Robot
+    7400000: Attacking
+    7400002: Moving
+    7400004: Preparing
+    7400006: Stop_Attacking
+    7400008: Untitled
+    7400010: Untitled_002
+    9500000: //RootNode
+    13700000: Robot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: Event playAudio of Animation Clip Attacking has a time  (0.000000)
+      outside the clip's valid range (0.041667..0.083333). It will never be firedEvent
+      playAudio of Animation Clip Attacking has a time  (1.000000) outside the clip's
+      valid range (0.041667..0.083333). It will never be fired
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attacking
+      takeName: Attacking
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: playAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      - time: 1
+        functionName: playAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: Robot_Armature
+        weight: 1
+      - path: Robot_Armature/Root
+        weight: 1
+      - path: Robot_Armature/Root/Base
+        weight: 1
+      - path: Robot_Armature/Root/Head
+        weight: 1
+      - path: Robot_Armature/Root/IK_Switch
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L/Leg_IK_Knee_Target_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R/Leg_IK_Knee_Target_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L/Leg_IK_Knee_Target_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R/Leg_IK_Knee_Target_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Position_Lock
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Moving
+      takeName: Moving
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: playAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: Robot_Armature
+        weight: 1
+      - path: Robot_Armature/Root
+        weight: 1
+      - path: Robot_Armature/Root/Base
+        weight: 1
+      - path: Robot_Armature/Root/Head
+        weight: 1
+      - path: Robot_Armature/Root/IK_Switch
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L/Leg_IK_Knee_Target_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R/Leg_IK_Knee_Target_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L/Leg_IK_Knee_Target_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R/Leg_IK_Knee_Target_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Position_Lock
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Preparing
+      takeName: Preparing
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: Robot_Armature
+        weight: 1
+      - path: Robot_Armature/Root
+        weight: 1
+      - path: Robot_Armature/Root/Base
+        weight: 1
+      - path: Robot_Armature/Root/Head
+        weight: 1
+      - path: Robot_Armature/Root/IK_Switch
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L/Leg_IK_Knee_Target_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R/Leg_IK_Knee_Target_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L/Leg_IK_Knee_Target_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R/Leg_IK_Knee_Target_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Position_Lock
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stop_Attacking
+      takeName: Stop_Attacking
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: Robot_Armature
+        weight: 1
+      - path: Robot_Armature/Root
+        weight: 1
+      - path: Robot_Armature/Root/Base
+        weight: 1
+      - path: Robot_Armature/Root/Head
+        weight: 1
+      - path: Robot_Armature/Root/IK_Switch
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L/Leg_IK_Knee_Target_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R/Leg_IK_Knee_Target_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L/Leg_IK_Knee_Target_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R/Leg_IK_Knee_Target_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Position_Lock
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Untitled
+      takeName: Untitled
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: Robot_Armature
+        weight: 1
+      - path: Robot_Armature/Root
+        weight: 1
+      - path: Robot_Armature/Root/Base
+        weight: 1
+      - path: Robot_Armature/Root/Head
+        weight: 1
+      - path: Robot_Armature/Root/IK_Switch
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L/Leg_IK_Knee_Target_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R/Leg_IK_Knee_Target_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L/Leg_IK_Knee_Target_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R/Leg_IK_Knee_Target_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Position_Lock
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Untitled_002
+      takeName: Untitled_002
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: Robot_Armature
+        weight: 1
+      - path: Robot_Armature/Root
+        weight: 1
+      - path: Robot_Armature/Root/Base
+        weight: 1
+      - path: Robot_Armature/Root/Head
+        weight: 1
+      - path: Robot_Armature/Root/IK_Switch
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_FK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_L/Leg_IK_Knee_Target_Front_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Front_Target_R/Leg_IK_Knee_Target_Front_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_L/Leg_IK_Knee_Target_Rear_L
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R
+        weight: 1
+      - path: Robot_Armature/Root/Leg_IK_Rear_Target_R/Leg_IK_Knee_Target_Rear_R
+        weight: 1
+      - path: Robot_Armature/Root/Position_Lock
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
