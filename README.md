@@ -1,12 +1,12 @@
 ﻿# The Great Passage
-Game for Android developed on Unity 3D
+Game for Android developed on Unity 3D and blender for animations.
 
 # About The Game
-This game should be played on an Android Device with VR Box and a bluetooth controller. It is a maze game where the user has to go through three different mazes in order to achieve its objective: go from hell to heaven.
+This is an Android VR game (joypad also required). It is a maze game where the user has to go through three different mazes in order to achieve his objective: go from hell to heaven.
 
 # Requirements
-The game requires the use of an VR Box set for viewing. The smartphone should have gyroscope to detect head rotations.
-The bluetooth controller is used for menu selections and movement.
+The game requires the use of a VR Cardboard set for viewing. The smartphone must have gyroscope to detect head rotations.
+The joypad is used for menu selections and movement.
 
 # Credits
 This game was developed by:
